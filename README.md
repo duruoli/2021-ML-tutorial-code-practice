@@ -1,7 +1,7 @@
 # 2021-ML-tutorial-code-practice
 Tutorial, Machine Learning, Computational Social Sciences
 
-Note: Chinese 
+Language: Chinese 
 ## Introduction
 This project aims to introduce Machine Learning (ML) methods to students in the social sciences. I collaborated with social scientists and students from the Chinese Academy of Social Sciences and various universities to develop a comprehensive introductory course including:
 1. Learning materials
