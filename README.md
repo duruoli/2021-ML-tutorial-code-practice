@@ -23,3 +23,8 @@ The learning materials are characterized by a high-level overview, providing int
    - Clustering: k-means, t-SNE (T-distributed stochastic neighbour embedding)
 
 p.s. only include my part
+
+## Practice
+From kaggle, but adjust to be easier
+1. Chun: decision tree
+2. Titanic: random forest to imputate, logistic regression
