@@ -23,7 +23,7 @@ The learning materials are characterized by a high-level overview, providing int
    - Classification: decision tree, random forest, GBDT
    - Clustering: k-means, t-SNE (T-distributed stochastic neighbour embedding)
 
-p.s. only include my part
+p.s. only include my part, and not the final version
 
 ## Practice
 From kaggle, but adjust to be easier
