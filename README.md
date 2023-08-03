@@ -9,3 +9,17 @@ This project aims to introduce Machine Learning (ML) methods to students in the 
 The course covers a wide range of topics, from classical methods to cutting-edge applications, such as deep learning and computer vision.
 
 The learning materials are characterized by a high-level overview, providing intuitive explanations, and focusing on the essence of the methods. The emphasis is on understanding why these methods work and how they achieve their objectives, rather than delving into technical details.
+
+## Slides
+1. Introductory: 
+   - Overview: WHY, WHAT, HOW, Future
+   - Supervised Learning: regression, classification
+   - Unsupervised Learning: clustering
+   - Evaluation
+3. Advanced
+   - Overview
+   - Regression: Ridge, Lasso
+   - Classification: decision tree, random forest, GBDT
+   - Clustering: k-means, t-SNE (T-distributed stochastic neighbour embedding)
+
+p.s. only include my part
