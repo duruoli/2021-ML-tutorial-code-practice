@@ -1,0 +1,25 @@
+样本容量：7073行 x 21列（7043个客户，21个特征）
+
+
+
+customerID ： 用户ID
+gender：性别（Female & Male）
+SeniorCitizen ：老年用户（1表示是，0表示不是）
+Partner ：伴侣用户（Yes or No）
+Dependents ：亲属用户（Yes or No）
+tenure ： 在网时长（0-72月）
+PhoneService ： 是否开通电话服务业务（Yes or No）
+MultipleLines： 是否开通了多线业务（Yes 、No or No phoneservice 三种）
+InternetService：是否开通互联网服务（No, DSL数字网络，fiber optic光纤网络 三种）
+OnlineSecurity：是否开通网络安全服务（Yes，No，No internetserive 三种）
+OnlineBackup：是否开通在线备份业务（Yes，No，No internetserive 三种）
+DeviceProtection：是否开通了设备保护业务（Yes，No，No internetserive 三种）
+TechSupport：是否开通了技术支持服务（Yes，No，No internetserive 三种）
+StreamingTV：是否开通网络电视（Yes，No，No internetserive 三种）
+StreamingMovies：是否开通网络电影（Yes，No，No internetserive 三种）
+Contract：签订合同方式（按月，一年，两年）
+PaperlessBilling：是否开通电子账单（Yes or No）
+PaymentMethod：付款方式（bank transfer，credit card，electronic check，mailed check）
+MonthlyCharges：月费用
+TotalCharges：总费用
+Churn：该用户是否流失（Yes or No）
