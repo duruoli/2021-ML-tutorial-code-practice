@@ -29,3 +29,4 @@ p.s. only include my part, not the final version
 From kaggle, but adjust to be easier
 1. Chun: decision tree
 2. Titanic: random forest to imputate, logistic regression
+3. Google Ngram: data generation, emotional valence score
